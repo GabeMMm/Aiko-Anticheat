@@ -65,6 +65,7 @@ Comando utilizado pelo staff para ativar/desativar o wallhack.
 O **Aiko AntiCheat** é uma solução **completa e eficiente** para garantir um ambiente de jogo **seguro e livre de trapaças**. Com seus diversos recursos, ele oferece **controle total** sobre o servidor, protegendo a integridade do jogo e facilitando a administração.
 
 🔹 **Proteção avançada** contra trapaceiros.
+
 🔹 **Ferramentas administrativas modernas via Comandos.**
 
 ➡️ **Mantenha seu servidor seguro com o Aiko AntiCheat!** 🚀
