@@ -43,7 +43,7 @@ Comando utilizado pelo staff para ativar/desativar o wallhack.
 ## 📌 Observações
 
 ✔️ O AikoAc **detecta atividades suspeitas em tempo real** e pode tomar ações automáticas para impedir trapaças.
-✔️ Ao utlizar os comandos `setowner` e `unban` pela primeira vez eles devem ser executados via **server console** e logo após podem ser também executados via **console F8**.
+✔️ Ao utlizar os comandos `/aiko set [AC-ID]` e `unban` pela primeira vez eles devem ser executados via **server console** e logo após podem ser também executados via **console F8**.
 ✔️ O comando `/aiko` sem parâmetros exibirá os comandos disponíveis no jogo.
 
 ---
