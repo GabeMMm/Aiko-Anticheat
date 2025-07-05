@@ -8,7 +8,7 @@ O **Aiko AntiCheat** é um sistema anticheat avançado desenvolvido para o **Fiv
 
 ## 📋 Tutorial
 
-1. Antes de iniciar a base, Configure todas as webhooks que se encontram no seguinte caminho: AikoAc > server > config > config.json.
+1. Antes de iniciar a base, configure todas as webhooks que se encontram no seguinte caminho: aiko_ac > Config > Main.Config.lua
 2. Ao startar a base pela primeira vez o Aiko AntiCheat irá instalar as dependências e fechar o **server console**, após isso starte a base novamente.
 3. Ao entrar na cidade pela primeira vez, execute o comando /aiko info no **console F8** para ver seu AC-ID e no **server console** use o comando **/aiko set [AC-ID]** para setar a imunidade em você.
 4. Após seguir os passos acima pode usar os poderes de staff normalmente que não irá tomar ban.
@@ -32,11 +32,11 @@ Comando utilizado para remover a imunidade dos staffs. **OBS:** utilizar sempre 
 
 ### 4. **/aiko ban [AC-ID]**
 
-Comando utilizado para Banir players que quebraram as regras do servidor. **OBS:** Utilizar sempre o [AC-ID].
+Comando utilizado para Banir players que quebraram as regras do servidor. **OBS:** Utilizar sempre o [AC-ID].  O comando pode ser executado via **server console** ou **console F8**.
 
 ### 5. **/aiko unban [AC-ID]**
 
-Comando utilizado para Desbanir players banidos no servidor. **OBS:** Utilizar sempre o [AC-ID].
+Comando utilizado para Desbanir players banidos no servidor. **OBS:** Utilizar sempre o [AC-ID].  O comando pode ser executado via **server console** ou **console F8**.
 
 ### 6. **/aiko tp [AC-ID]**
 
@@ -50,11 +50,15 @@ Comando utilizado para teleportar um player online até você. **OBS:** Utilizar
 
 Comando utilizado pelo staff para ativar/desativar o wallhack.
 
+### 9. **/aiko uninstall**
+
+Comando utilizado para desinstalar as dependencias do **Aiko AntiCheat**. **OBS:** O comando deve ser executado via **server console**.
+
 ## 📌 Observações
 
 ✔️ O AikoAc **detecta atividades suspeitas em tempo real** e pode tomar ações automáticas para impedir trapaças.
 
-✔️ Ao utlizar os comandos `/aiko set [AC-ID]` e `unban` pela primeira vez eles devem ser executados via **server console** e logo após podem ser também executados via **console F8**.
+✔️ Ao utlizar os comandos `/aiko set [AC-ID]` pela primeira vez eles devem ser executados via **server console** e logo após podem ser também executados via **console F8**.
 
 ✔️ O comando `/aiko` sem parâmetros exibirá os comandos disponíveis no jogo.
 
