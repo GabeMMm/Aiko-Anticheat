@@ -13,7 +13,7 @@ O **Aiko AntiCheat** é um sistema anticheat avançado desenvolvido para o **Fiv
 3. Ao entrar na cidade pela primeira vez, execute o comando /aiko info no **console F8** para ver seu AC-ID e no **server console** use o comando **/aiko set [AC-ID]** para setar a imunidade em você.
 4. Após seguir os passos acima pode usar os poderes de staff normalmente que não irá tomar ban.
 5. Para setar a imunidade nos outros Staffs utilize o comando **/aiko set [AC-ID]** no **console F8**.
-6. Caso algum módulo esteja dando problema de falso positivo, relate imediatamente em nosso (discord)[https://discord.gg/aikoac] e desative-o no mesmo local do tópico **1**
+6. Caso algum módulo esteja dando problema de falso positivo, relate imediatamente em nosso (discord)[https://discord.gg/aikoac] e desative-o no caminho aiko_ac > config > modules.lua
 ---
 
 ## 🔹 Comandos Disponíveis
