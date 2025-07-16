@@ -8,7 +8,7 @@ O **Aiko AntiCheat** é um sistema anticheat avançado desenvolvido para o **Fiv
 
 ## 📋 Tutorial
 
-1. Antes de iniciar a base, configure todas as webhooks que se encontram no seguinte caminho: aiko_ac > Config > Main.Config.lua
+1. Antes de iniciar a base, configure todas as webhooks que se encontram no seguinte caminho: aiko_ac > config > webhooks.lua
 2. Ao startar a base pela primeira vez o Aiko AntiCheat irá instalar as dependências e fechar o **server console**, após isso starte a base novamente.
 3. Ao entrar na cidade pela primeira vez, execute o comando /aiko info no **console F8** para ver seu AC-ID e no **server console** use o comando **/aiko set [AC-ID]** para setar a imunidade em você.
 4. Após seguir os passos acima pode usar os poderes de staff normalmente que não irá tomar ban.
